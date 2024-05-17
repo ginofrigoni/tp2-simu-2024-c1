@@ -1,3 +1,18 @@
+getAllMovies
+http://localhost:3001/api/movies?pageSize=50&page=1
+
+getMovieById
+http://localhost:3001/api/movies/573a1391f29313caabcd8543
+
+getAwardWinningMovies
+http://localhost:3001/api/movies/award
+
+getMoviesByLanguage
+http://localhost:3001/api/movies/language/French?pageSize=10&page=1
+
+getMoviesByFreshScore
+http://localhost:3001/api/movies/fresh
+
 # TALLER DE PROGRAMACION 2
 
 ## Instrucciones de resolución de examen
